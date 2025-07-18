@@ -16,10 +16,17 @@ Here are some ideas to get you started:
 -->
 
 I am a Python/JavaScript/Java developer. 🐍
+I can speak English, Latvian and Russian. 🗣️
+I am from Latvia.
 
 # ✅ My Hard Skills:
 - Python (frontend and backend)
 - Tkinter, Flask, SQLite and more.
+
+# ✅ My Soft Skills:
+- Communication 🗣️
+- Leadership 👑
+- Time Management ⏱️
 
 # ✅ My projects:
 *All of them were made by myself.*
