@@ -19,7 +19,7 @@ I am a Python/JavaScript/Java developer. 🐍
 
 # ✅ My Hard Skills:
 - Python (frontend and backend)
-- Python, Tkinter, Flask, SQLite
+- Tkinter, Flask, SQLite and more.
 
 # ✅ My projects:
 
