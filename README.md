@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello!
 
 <!--
 **AFGamesYT/AFGamesYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Python/JavaScript/Java developer. 🐍
+
+# ✅ My Hard Skills:
+- Python (frontend and backend)
+- Python, Tkinter, Flask, SQLite
+
+# ✅ My projects:
+
+## On GitHub:
+- Drawing Game With AI
+- Random Minecraft Item Generator.
+
+## Not on GitHub:
+- Blog website
+- A game in Python that is controlled within Discord
+- Many platformers with their gimmicks
+
+If you want access to any of these projects, contact me on Discord!
+
+# 📱 Contact me
+The only way is through Discord: @a.f.games
