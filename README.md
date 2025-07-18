@@ -22,6 +22,7 @@ I am a Python/JavaScript/Java developer. 🐍
 - Tkinter, Flask, SQLite and more.
 
 # ✅ My projects:
+*All of them were made by myself.*
 
 ## On GitHub:
 - Drawing Game With AI
