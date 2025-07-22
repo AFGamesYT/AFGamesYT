@@ -40,6 +40,9 @@ I am from Latvia.
 - A game in Python that is controlled within Discord
 - Many platformers with their gimmicks
 
+## Currently working on:
+- Portfolio maker
+
 If you want access to any of these projects, contact me on Discord!
 
 # 📱 Contact me
