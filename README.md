@@ -41,7 +41,7 @@ I am from Latvia.
 - Many platformers with their gimmicks
 
 ## Currently working on:
-- Portfolio maker
+- Random projects
 
 If you want access to any of these projects, contact me on Discord!
 
