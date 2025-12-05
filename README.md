@@ -41,7 +41,7 @@ I am from Latvia.
 - Many platformers with their gimmicks
 
 ## Currently working on:
-- Random projects
+- Sconker (game about conkers)
 
 If you want access to any of these projects, contact me on Discord!
 
