@@ -1,27 +1,12 @@
 ## Hello!
 
-<!--
-**AFGamesYT/AFGamesYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I am a Python/JavaScript/Java developer. 🐍
+I am a Python developer. 🐍 (Also I know HTML/CSS)
 I can speak English, Latvian and Russian. 🗣️
 I am from Latvia.
 
 # ✅ My Hard Skills:
 - Python (frontend and backend)
-- Tkinter, Flask, SQLite and more.
+- Flask, SQLite, Pygame and more.
 
 # ✅ My Soft Skills:
 - Communication 🗣️
@@ -38,7 +23,7 @@ I am from Latvia.
 ## Not on GitHub:
 - Blog website
 - A game in Python that is controlled within Discord
-- Many platformers with their gimmicks
+- Many platformers with different gimmicks
 
 ## Currently working on:
 - Sconker (game about conkers)
