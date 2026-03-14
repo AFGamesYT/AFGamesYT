@@ -4,16 +4,16 @@ I am a Python and Dart (Flutter) developer. 🐍🎯
 I can speak English, Latvian and Russian. 🗣️  
 I am from Latvia.
 
-# ✅ My Hard Skills:
+# My Hard Skills:
 - Python (frontend and backend) | Flask, SQLite, Pygame and more.
 - Flutter | Mainly for mobile apps.
 
-# ✅ My Soft Skills:
+# My Soft Skills:
 - Communication 🗣️
 - Leadership 👑
 - Time Management ⏱️
 
-# ✅ My projects:
+# My projects:
 *All of them were made fully by myself.*
 
 ## On GitHub:
