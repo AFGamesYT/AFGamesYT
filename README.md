@@ -1,12 +1,12 @@
 ## Hello!
 
-I am a Python developer. 🐍 (Also I know HTML/CSS)
+I am a Python and Dart (Flutter) developer. 🐍🎯
 I can speak English, Latvian and Russian. 🗣️
 I am from Latvia.
 
 # ✅ My Hard Skills:
-- Python (frontend and backend)
-- Flask, SQLite, Pygame and more.
+- Python (frontend and backend) | Flask, SQLite, Pygame and more.
+- Flutter | Mainly for mobile apps.
 
 # ✅ My Soft Skills:
 - Communication 🗣️
@@ -14,21 +14,21 @@ I am from Latvia.
 - Time Management ⏱️
 
 # ✅ My projects:
-*All of them were made by myself.*
+*All of them were made fully by myself.*
 
 ## On GitHub:
-- Drawing Game With AI
-- Random Minecraft Item Generator.
+- Drawing Game With AI *(https://github.com/AFGamesYT/ai-guess-drawing)*
+- Random Minecraft Item Generator. *(https://github.com/AFGamesYT/get-random-item-minecraft)*
 
 ## Not on GitHub:
 - Blog website
-- A game in Python that is controlled within Discord
+- A simple 2D game made with Python, that is controlled within Discord, with a discord bot
 - Many platformers with different gimmicks
 
 ## Currently working on:
-- Sconker (game about conkers)
+- Sconker (incremental about conkers)
 
 If you want access to any of these projects, contact me on Discord!
 
 # 📱 Contact me
-The only way is through Discord: @a.f.games
+The only way is through Discord: **@a.f.games**
