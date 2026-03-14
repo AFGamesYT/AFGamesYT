@@ -1,7 +1,7 @@
 ## Hello!
 
-I am a Python and Dart (Flutter) developer. 🐍🎯
-I can speak English, Latvian and Russian. 🗣️
+I am a Python and Dart (Flutter) developer. 🐍🎯\n
+I can speak English, Latvian and Russian. 🗣️\n
 I am from Latvia.
 
 # ✅ My Hard Skills:
