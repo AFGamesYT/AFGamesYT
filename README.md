@@ -29,7 +29,7 @@ I am from Latvia.
 
 ## Currently working on:
 - Sconker *(https://github.com/AFGamesYT/Sconker-cpp)*
-- Barebones Marco *(https://github.com/AFGamesYT/barebones-macro)*
+- Barebones Macro *(https://github.com/AFGamesYT/barebones-macro)*
 
 If you want access to any of these projects, contact me on Discord!
 
