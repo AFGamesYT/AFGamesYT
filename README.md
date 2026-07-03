@@ -20,7 +20,7 @@ I am from Latvia.
 ## On GitHub:
 - Drawing Game With AI *(https://github.com/AFGamesYT/ai-guess-drawing)*
 - Random Minecraft Item Generator. *(https://github.com/AFGamesYT/get-random-item-minecraft)*
-- Sconker. *(https://github.com/AFGamesYT/Sconker-cpp)*
+- Barebones Macro *(https://github.com/AFGamesYT/barebones-macro)*
 
 ## Not on GitHub:
 - Blog website
@@ -29,7 +29,7 @@ I am from Latvia.
 
 ## Currently working on:
 - Sconker *(https://github.com/AFGamesYT/Sconker-cpp)*
-- Barebones Macro *(https://github.com/AFGamesYT/barebones-macro)*
+
 
 If you want access to any of these projects, contact me on Discord!
 
