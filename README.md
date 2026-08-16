@@ -29,6 +29,7 @@ I am from Latvia.
 
 ## Currently working on:
 - Sconker *(https://github.com/AFGamesYT/Sconker-cpp)*
+- Added Difficulty *(https://github.com/AFGamesYT/added-difficulty)*
 
 
 If you want access to any of these projects, contact me on Discord!
